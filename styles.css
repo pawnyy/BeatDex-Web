@@ -2,6 +2,10 @@ body{
     background: #778899;
 }
 
+.item-text {
+    font-size: 40px
+}
+
 h1{
     color: #fff;
     font-size: 64px;
@@ -49,7 +53,6 @@ li span:nth-child(2){
 form input{
     float: left;
     width: 38%;
-    margin: 0;
     border: 0;
     border-bottom: 1px solid #eee;
     margin: 0 1%;
